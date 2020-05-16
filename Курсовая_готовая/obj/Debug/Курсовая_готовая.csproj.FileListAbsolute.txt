@@ -1,0 +1,12 @@
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\bin\Debug\Курсовая_готовая.exe.config
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\bin\Debug\Курсовая_готовая.exe
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\bin\Debug\Курсовая_готовая.pdb
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.csprojAssemblyReference.cache
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.Properties.Resources.resources
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.Крестики_нолики.resources
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.csproj.GenerateResource.cache
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.csproj.CoreCompileInputs.cache
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.exe
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.pdb
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.Form1.resources
+C:\Users\влад\source\repos\Курсовая_готовая\Курсовая_готовая\obj\Debug\Курсовая_готовая.Слова.resources
